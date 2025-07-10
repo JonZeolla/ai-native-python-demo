@@ -18,7 +18,7 @@ task init
 task build
 
 # Run the image
-docker run jonzeolla/ai_native_python_demo:0.0.0 --help
+docker run jonzeolla/ai_native_python_demo:0.1.0 --help
 ```
 
 If you'd like to build all of the supported docker images, you can set the `PLATFORM` env var to `all` like this:
