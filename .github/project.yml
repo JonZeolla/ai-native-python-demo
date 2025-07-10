@@ -1,0 +1,25 @@
+description: "Let's \u2728vibe\u2728"
+name: ai_native_python_demo
+origin:
+  generated: true
+  template:
+    branch: main
+    commit hash: 779544db5b36fe4d1a97801b3f9b203baf694666
+    cookiecutter:
+      _checkout: null
+      _repo_dir: /Users/jonzeolla/.cookiecutters/ai-native-python
+      _template: gh:zenable-io/ai-native-python
+      company_domain: jonzeolla.com
+      company_name: Jon Zeolla
+      dockerhub: 'yes'
+      github_org: jonzeolla
+      license: MIT
+      project_name: ai-native-python-demo
+      project_owner_github_username: jonzeolla
+      project_short_description: "Let's \u2728vibe\u2728"
+      project_slug: ai_native_python_demo
+      public: 'yes'
+      python_version: '3.13'
+    dirty: false
+    location: https://github.com/zenable-io/ai-native-python.git
+  timestamp: '2025-07-10T16:07:58+00:00'
